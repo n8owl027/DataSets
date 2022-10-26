@@ -1,0 +1,61 @@
+Years of schooling,Siblings,Happiness,Count
+< 12,0 - 1,(1) Not too happy,15
+12,0 - 1,(1) Not too happy,34
+13-16,0 - 1,(1) Not too happy,36
+17+,0 - 1,(1) Not too happy,22
+< 12,2 - 3,(1) Not too happy,61
+12,2 - 3,(1) Not too happy,31
+13-16,2 - 3,(1) Not too happy,60
+17+,2 - 3,(1) Not too happy,46
+< 12,4 - 5,(1) Not too happy,25
+12,4 - 5,(1) Not too happy,26
+13-16,4 - 5,(1) Not too happy,35
+17+,4 - 5,(1) Not too happy,45
+< 12,6 - 7,(1) Not too happy,30
+12,6 - 7,(1) Not too happy,13
+13-16,6 - 7,(1) Not too happy,8
+17+,6 - 7,(1) Not too happy,18
+< 12,8+,(1) Not too happy,14
+12,8+,(1) Not too happy,3
+13-16,8+,(1) Not too happy,3
+17+,8+,(1) Not too happy,4
+< 12,0 - 1,(2) Pretty happy,17
+12,0 - 1,(2) Pretty happy,53
+13-16,0 - 1,(2) Pretty happy,70
+17+,0 - 1,(2) Pretty happy,67
+< 12,2 - 3,(2) Pretty happy,79
+12,2 - 3,(2) Pretty happy,60
+13-16,2 - 3,(2) Pretty happy,96
+17+,2 - 3,(2) Pretty happy,45
+< 12,4 - 5,(2) Pretty happy,40
+12,4 - 5,(2) Pretty happy,31
+13-16,4 - 5,(2) Pretty happy,63
+17+,4 - 5,(2) Pretty happy,74
+< 12,6 - 7,(2) Pretty happy,39
+12,6 - 7,(2) Pretty happy,24
+13-16,6 - 7,(2) Pretty happy,7
+17+,6 - 7,(2) Pretty happy,15
+< 12,8+,(2) Pretty happy,15
+12,8+,(2) Pretty happy,9
+13-16,8+,(2) Pretty happy,2
+17+,8+,(2) Pretty happy,1
+< 12,0 - 1,(3) Very happy,7
+12,0 - 1,(3) Very happy,20
+13-16,0 - 1,(3) Very happy,23
+17+,0 - 1,(3) Very happy,16
+< 12,2 - 3,(3) Very happy,36
+12,2 - 3,(3) Very happy,5
+13-16,2 - 3,(3) Very happy,12
+17+,2 - 3,(3) Very happy,11
+< 12,4 - 5,(3) Very happy,12
+12,4 - 5,(3) Very happy,7
+13-16,4 - 5,(3) Very happy,5
+17+,4 - 5,(3) Very happy,10
+< 12,6 - 7,(3) Very happy,4
+12,6 - 7,(3) Very happy,4
+13-16,6 - 7,(3) Very happy,3
+17+,6 - 7,(3) Very happy,2
+< 12,8+,(3) Very happy,1
+12,8+,(3) Very happy,2
+13-16,8+,(3) Very happy,0
+17+,8+,(3) Very happy,1

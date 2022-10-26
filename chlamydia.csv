@@ -1,0 +1,102 @@
+Age,Gender,Race,Count
+10-14,Male,White,89
+15-19,Male,White,4158
+20-24,Male,White,6175
+25-29,Male,White,3131
+30-34,Male,White,1585
+35-39,Male,White,864
+40-44,Male,White,406
+45-54,Male,White,358
+55-64,Male,White,358
+65+,Male,White,62
+10-14,Female,White,2584
+15-19,Female,White,48462
+20-24,Female,White,35289
+25-29,Female,White,11789
+30-34,Female,White,4419
+35-39,Female,White,2228
+40-44,Female,White,957
+45-54,Female,White,624
+55-64,Female,White,624
+65+,Female,White,143
+10-14,Male,Black,251
+15-19,Male,Black,9123
+20-24,Male,Black,10081
+25-29,Male,Black,4749
+30-34,Male,Black,2340
+35-39,Male,Black,1190
+40-44,Male,Black,571
+45-54,Male,Black,422
+55-64,Male,Black,422
+65+,Male,Black,29
+10-14,Female,Black,4602
+15-19,Female,Black,59440
+20-24,Female,Black,39185
+25-29,Female,Black,13843
+30-34,Female,Black,5282
+35-39,Female,Black,2430
+40-44,Female,Black,1018
+45-54,Female,Black,537
+55-64,Female,Black,537
+65+,Female,Black,114
+10-14,Male,Hispanic,86
+15-19,Male,Hispanic,2959
+20-24,Male,Hispanic,3935
+25-29,Male,Hispanic,2103
+30-34,Male,Hispanic,985
+35-39,Male,Hispanic,453
+40-44,Male,Hispanic,221
+45-54,Male,Hispanic,121
+55-64,Male,Hispanic,121
+65+,Male,Hispanic,15
+10-14,Female,Hispanic,1397
+15-19,Female,Hispanic,21813
+20-24,Female,Hispanic,19745
+25-29,Female,Hispanic,9048
+30-34,Female,Hispanic,3878
+35-39,Female,Hispanic,1547
+40-44,Female,Hispanic,613
+45-54,Female,Hispanic,349
+55-64,Female,Hispanic,349
+65+,Female,Hispanic,91
+10-14,Male,Asian/Pacific Island,15
+15-19,Male,Asian/Pacific Island,213
+20-24,Male,Asian/Pacific Island,340
+25-29,Male,Asian/Pacific Island,195
+30-34,Male,Asian/Pacific Island,122
+35-39,Male,Asian/Pacific Island,62
+40-44,Male,Asian/Pacific Island,44
+45-54,Male,Asian/Pacific Island,24
+55-64,Male,Asian/Pacific Island,24
+65+,Male,Asian/Pacific Island,5
+10-14,Female,Asian/Pacific Island,108
+15-19,Female,Asian/Pacific Island,1723
+20-24,Female,Asian/Pacific Island,1915
+25-29,Female,Asian/Pacific Island,921
+30-34,Female,Asian/Pacific Island,438
+35-39,Female,Asian/Pacific Island,231
+40-44,Female,Asian/Pacific Island,92
+45-54,Female,Asian/Pacific Island,69
+55-64,Female,Asian/Pacific Island,69
+65+,Female,Asian/Pacific Island,5
+10-14,Male,American Indian,16
+15-19,Male,American Indian,421
+20-24,Male,American Indian,452
+25-29,Male,American Indian,247
+30-34,Male,American Indian,144
+35-39,Male,American Indian,52
+40-44,Male,American Indian,29
+45-54,Male,American Indian,12
+55-64,Male,American Indian,12
+65+,Male,American Indian,3
+10-14,Female,American Indian,198
+15-19,Female,American Indian,2921
+20-24,Female,American Indian,2409
+25-29,Female,American Indian,1009
+30-34,Female,American Indian,496
+35-39,Female,American Indian,280
+40-44,Female,American Indian,125
+45-54,Female,American Indian,77
+55-64,Female,American Indian,77
+65+,Female,American Indian,8
+,,,

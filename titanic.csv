@@ -1,0 +1,15 @@
+Economic status,Age group,Gender,Survived,At risk
+Crew,Adult,Female,20,23
+Crew,Adult,Male,192,862
+First class,Adult,Female,140,144
+First class,Adult,Male,57,175
+Second class,Adult,Female,80,93
+Second class,Adult,Male,14,168
+Third class,Adult,Female,76,165
+Third class,Adult,Male,75,462
+First class,Child,Female,1,1
+First class,Child,Male,5,5
+Second class,Child,Female,13,13
+Second class,Child,Male,11,11
+Third class,Child,Female,14,31
+Third class,Child,Male,13,48
