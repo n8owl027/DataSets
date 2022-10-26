@@ -1,0 +1,51 @@
+Sex,Age,Race,AIDS,Total
+Male,15-24,White not Hispanic,2555,14443382
+Male,25-34,White not Hispanic,55300,14704293
+Male,35-44,White not Hispanic,82334,16641977
+Male,45-54,White not Hispanic,38006,13888285
+Male,55 & older,White not Hispanic,16068,21845911
+Male,15-24,Black not Hispanic,2489,2367256
+Male,25-34,Black not Hispanic,34204,2410019
+Male,35-44,Black not Hispanic,51776,2727604
+Male,45-54,Black not Hispanic,23896,2276276
+Male,55 & older,Black not Hispanic,10169,3580523
+Male,15-24,Hispanic,1363,1542563
+Male,25-34,Hispanic,20712,1570428
+Male,35-44,Hispanic,27200,1777374
+Male,45-54,Hispanic,11251,1483278
+Male,55 & older,Hispanic,4674,2333158
+Male,15-24,Asian & Pacific Islander,38,699627
+Male,25-34,Asian & Pacific Islander,731,712265
+Male,35-44,Asian & Pacific Islander,1162,806125
+Male,45-54,Asian & Pacific Islander,560,672738
+Male,55 & older,Asian & Pacific Islander,258,1058200
+Male,15-24,American Indian & Alaska Native,26,169115
+Male,25-34,American Indian & Alaska Native,390,172170
+Male,35-44,American Indian & Alaska Native,417,194858
+Male,45-54,American Indian & Alaska Native,140,162616
+Male,55 & older,American Indian & Alaska Native,48,255790
+Female,15-24,White not Hispanic,490,14999423
+Female,25-34,White not Hispanic,4788,15270378
+Female,35-44,White not Hispanic,5377,17282659
+Female,45-54,White not Hispanic,2152,14422956
+Female,55 & older,White not Hispanic,1790,22686934
+Female,15-24,Black not Hispanic,1490,2458391
+Female,25-34,Black not Hispanic,12280,2502800
+Female,35-44,Black not Hispanic,15713,2832611
+Female,45-54,Black not Hispanic,5788,2363908
+Female,55 & older,Black not Hispanic,2534,3718366
+Female,15-24,Hispanic,493,1601948
+Female,25-34,Hispanic,4660,1630887
+Female,35-44,Hispanic,5153,1845800
+Female,45-54,Hispanic,1944,1540381
+Female,55 & older,Hispanic,910,2422980
+Female,15-24,Asian & Pacific Islander,6,726561
+Female,25-34,Asian & Pacific Islander,83,739686
+Female,35-44,Asian & Pacific Islander,106,837159
+Female,45-54,Asian & Pacific Islander,69,698637
+Female,55 & older,Asian & Pacific Islander,55,1098938
+Female,15-24,American Indian & Alaska Native,3,175626
+Female,25-34,American Indian & Alaska Native,78,178798
+Female,35-44,American Indian & Alaska Native,77,202360
+Female,45-54,American Indian & Alaska Native,31,168876
+Female,55 & older,American Indian & Alaska Native,14,265637
